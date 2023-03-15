@@ -18,6 +18,10 @@
 
   <img align="center" alt="Yuri-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
+  <img aling="center" alt="Yuri-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+  <img aling="center" alt="Yuri-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
   
   ##
   

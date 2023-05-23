@@ -23,8 +23,6 @@
   <img aling="center" alt="Yuri-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
   
-  ##
-  
   <div>
     
    <a href="https://www.instagram.com/yurixlimacc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

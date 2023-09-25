@@ -24,7 +24,8 @@
   <img align="center" alt="Yuri-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
   <img align="center" alt="Yuri-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
+  <br>
+  <br>
   <div>
     
    <a href="https://www.instagram.com/yurixlimacc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
